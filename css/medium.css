@@ -14,6 +14,12 @@ body {
     border-radius: 99em;
 }
 
+.btn-light {
+    border-radius: 99em;
+    margin-bottom: 6px;
+    padding: 0px 8px;
+}
+
 .fa-arrow-trend-up {
     border: solid 1px black;
     border-radius: 50%;
@@ -26,4 +32,8 @@ body {
 
 .aside-button li {
     margin-bottom: 10px;
+}
+
+.sticky-top{
+    top:95px;
 }
